@@ -1,0 +1,342 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profiler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-23 03:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: profiler"
+
+#: patterns/error-404.php:10
+msgid "0"
+msgstr ""
+
+#: patterns/error-404.php:10
+msgid "4"
+msgstr ""
+
+#: patterns/footer.php:11
+msgid ""
+"<strong>Thank you visiting my website. </strong><br><em><strong>Contact No. :"
+" +123567890<br>Email: sample@example.com</strong></em>"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "and"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Are you looking for building a personal portfolio website? Profiler is "
+"simple, clean and beautiful FSE Portfolio Theme. Visit https://rajanlama.com."
+"np/contact-us/ for support, https://rajanlama.com.np/documentation/profiler "
+"for theme documentation and https: //rajanlama.com.np/demo/profiler/ for "
+"demo."
+msgstr ""
+
+#: patterns/skills.php:30
+msgid "Artificial Intelligence"
+msgstr ""
+
+#: patterns/education-and-experience.php:21
+msgid "B.E. Computer Engineering - <em>2010-1014</em>"
+msgstr ""
+
+#: patterns/services.php:60
+msgid "Business Analysis"
+msgstr ""
+
+#: patterns/services.php:28
+msgid "Business Planning"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent Three"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent Two"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Front Page"
+msgstr ""
+
+#: patterns/education-and-experience.php:35
+msgid "Diploma Computer Engineering - <em>2008-2010</em>"
+msgstr ""
+
+#: patterns/education-and-experience.php:12
+msgid "Education and Experiences"
+msgstr ""
+
+#: patterns/services.php:44
+msgid "Finance Planning"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "System Fonts"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Extra small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: patterns/education-and-experience.php:71
+msgid "From - <em>ABC Company</em>"
+msgstr ""
+
+#: patterns/education-and-experience.php:39
+msgid "From - <em>ABC Engineering College</em>"
+msgstr ""
+
+#: patterns/education-and-experience.php:85
+msgid "From - <em>BCD Company</em>"
+msgstr ""
+
+#: patterns/education-and-experience.php:99
+msgid "From - <em>CDE Company</em>"
+msgstr ""
+
+#: patterns/education-and-experience.php:53
+msgid "From - <em>Florida High School</em>"
+msgstr ""
+
+#: patterns/education-and-experience.php:25
+msgid "From - <em>New York University</em>"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Accent Two to Contrast"
+msgstr ""
+
+#: patterns/hero-content.php:39
+msgid "Hire Me"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "https://rajanlama.com.np"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://rajanlama.com.np/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://rajanlama.com.np/themes/profiler"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/hero-content.php:26
+msgid ""
+"I am a WordPress based web designer &amp; front‑end developer focused on "
+"crafting clean &amp; user‑friendly experiences, I am passionate about "
+"building excellent software that improves the lives of those around me."
+msgstr ""
+
+#: patterns/hero-content.php:18
+msgid "I am John Doe."
+msgstr ""
+
+#: patterns/education-and-experience.php:95
+msgid "Junior Software Engineer - <em>2014-2015</em>"
+msgstr ""
+
+#. Author of the theme
+msgid "lamarajan"
+msgstr ""
+
+#: patterns/education-and-experience.php:29
+#: patterns/education-and-experience.php:43
+#: patterns/education-and-experience.php:57
+#: patterns/education-and-experience.php:75
+#: patterns/education-and-experience.php:89
+#: patterns/education-and-experience.php:103 patterns/services.php:32
+#: patterns/services.php:48 patterns/services.php:64
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry standard dummy text ever since the 1500s."
+msgstr ""
+
+#: patterns/skills.php:24
+msgid "Machine Learning"
+msgstr ""
+
+#: patterns/skills.php:18
+msgid "Mobile Development"
+msgstr ""
+
+#: patterns/hero-content.php:32
+msgid "More About Me"
+msgstr ""
+
+#: patterns/services.php:12
+msgid "Our Services"
+msgstr ""
+
+#: patterns/error-404.php:2
+msgctxt "Pattern title"
+msgid "404 Error Page"
+msgstr ""
+
+#: patterns/education-and-experience.php:2
+msgctxt "Pattern title"
+msgid "Education and Experince"
+msgstr ""
+
+#: patterns/footer.php:2
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/header.php:2
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/hero-content.php:2
+msgctxt "Pattern title"
+msgid "Hero Content"
+msgstr ""
+
+#: patterns/home.php:2
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/latest-posts.php:2
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/services.php:2
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/skills.php:2
+msgctxt "Pattern title"
+msgid "Skills"
+msgstr ""
+
+#. Name of the theme
+#: inc/block-patterns.php:17
+msgid "Profiler"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "Rajan Lama"
+msgstr ""
+
+#: patterns/latest-posts.php:39
+msgid "Read More"
+msgstr ""
+
+#: patterns/latest-posts.php:12
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/education-and-experience.php:49
+msgid "School Leaving Certificate - <em>2008</em>"
+msgstr ""
+
+#: patterns/education-and-experience.php:67
+msgid "Senior Software Engineer - <em>2020-1014</em>"
+msgstr ""
+
+#: patterns/hero-content.php:22
+msgid "Software Engineer"
+msgstr ""
+
+#: patterns/education-and-experience.php:81
+msgid "Software Engineering - <em>2015-2020</em>"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/error-404.php:14
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/skills.php:12
+msgid "Website Development"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "WordPress"
+msgstr ""
